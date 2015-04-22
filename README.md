@@ -1,5 +1,5 @@
 #This is my starter theme from _Undercores
-
+```
 Table of Contents
 0.0 Structure - full, main-page, inner
 1. Reset /  Normalize
@@ -34,3 +34,4 @@ Table of Contents
 Infinite scroll (REMOVED)
 layouts folder(REMOVED) put it in structure
 modules folder - header, content, sidebar, footer
+```
