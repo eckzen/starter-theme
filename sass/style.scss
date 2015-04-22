@@ -1,0 +1,91 @@
+/*
+Theme Name: starter
+Theme URI: http://underscores.me/
+Author: Raphael Jay Bernardo
+Author URI: http://raphaeljaybernardo.com
+Description: starter theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: starter
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+starter is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+
+# Normalize
+# Structure
+# General styles
+# Helper styles
+# Buttons and Inputs
+# Header
+# Content
+# Sidebar
+# Footer
+# Media
+
+--------------------------------------------------------------*/
+@import "variables-site/variables-site";
+@import "mixins/mixins-master";
+
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+@import "normalize";
+
+/*--------------------------------------------------------------
+# Structure
+--------------------------------------------------------------*/
+@import "structure/structure";
+
+/*--------------------------------------------------------------
+# General styles
+--------------------------------------------------------------*/
+@import "general/general";
+
+/*--------------------------------------------------------------
+# Helper styles
+--------------------------------------------------------------*/
+@import "helper/helper";
+
+/*--------------------------------------------------------------
+# Buttons and Inputs
+--------------------------------------------------------------*/
+@import "forms/forms";
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+@import "module/header";
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+@import "module/content/content";
+
+/*--------------------------------------------------------------
+# Sidebar
+--------------------------------------------------------------*/
+@import "module/sidebar";
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+@import "module/footer";
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+@import "media/media";
+
