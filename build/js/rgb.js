@@ -1,0 +1,1 @@
+$(function(){$("nav a, .date").append("<span>&nbsp</span>"),$("nav a").hover(function(n){$(this).hoverFlow(n.type,{width:230},200).css("overflow","visible").find("span").hoverFlow(n.type,{width:15},200)},function(n){$(this).hoverFlow(n.type,{width:215},200).css("overflow","visible").find("span").hoverFlow(n.type,{width:20},200)})});

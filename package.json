@@ -1,0 +1,29 @@
+{
+  "name": "RGBfinal",
+  "version": "1.0.0",
+  "description": "Online store",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eckzen/starter-theme.git"
+  },
+  "keywords": [
+    "onlinestore",
+    "leathercrafts",
+    "genuine",
+    "leather"
+  ],
+  "author": "Raphael Jay Bernardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eckzen/starter-theme/issues"
+  },
+  "homepage": "https://github.com/eckzen/starter-theme"
+}
